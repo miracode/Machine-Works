@@ -37,16 +37,18 @@ day D + 1.
 
 Follow the format of the sample output.
 
-|Sample input | Output for the Sample Input |
-|-------------|-----------------------------|
-|6 10 20      | Case 1: 44 |
-|6 12 1 3 | |
-|1 9 1 2 | |
-|3 2 1 2 | |
-|8 20 5 4 | |
-|4 11 7 4 | |
-|2 10 9 1 | |
-|0 0 0 | |
+##### Sample input
+6 10 20  
+6 12 1 3  
+1 9 1 2  
+3 2 1 2  
+8 20 5 4  
+4 11 7 4  
+2 10 9 1  
+0 0 0 
+
+##### Output for the Sample Input
+Case 1: 44
 
 
 
